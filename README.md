@@ -20,12 +20,7 @@ This project automates the download and unpacking of GFS analysis data using a B
 ## Using:
 3. Run the script using the following commands:
    ```bash
-   bash AUT_GFS.bash <keyword>
-
-
-
-
-
+   bash AUT_GFS.bash
 ### 3. **Save the README.md File**
 
 After editing, save the file. If you're using `nano`, press `Ctrl + O` to write the changes, then `Enter`, and `Ctrl + X` to exit.
