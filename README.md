@@ -1,3 +1,6 @@
+![GFS Example](image/gfs_screenshot.png)
+
+
 # GFS Analysis Script
 
 ## Description
