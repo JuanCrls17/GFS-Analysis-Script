@@ -32,3 +32,16 @@ Once the file is created and saved, you need to stage and commit it:
    ```bash
    git add README.md
 
+## GFS Data Files
+
+The following GFS data files are available in this repository:
+
+- [gfs_file1](GFS_data/gfs_file1)
+- [gfs_file2](GFS_data/gfs_file2)
+
+## External Resources
+
+For more detailed information about the Global Forecast System (GFS) data, you can visit the official NOAA page:
+
+- [NOAA Global Forecast System (GFS) Data](https://www.ncei.noaa.gov/products/weather-climate-models/global-forecast)
+
