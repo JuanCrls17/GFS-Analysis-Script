@@ -11,13 +11,16 @@ This project automates the download and unpacking of GFS analysis data using a B
    ```bash
    git clone https://github.com/JuanCrls17/GFS-Analysis-Script.git
 
-## Locate:
-cd GFS-Analysis-Script
 
+## Ilocate:
+2. Navigate to the project directory:
+   ```bash
+   cd GFS-Analysis-Script
 
 ## Using:
-bash AUT_GFS.bash <keyword>
-
+3. Run the script using the following commands:
+   ```bash
+   bash AUT_GFS.bash <keyword>
 
 
 
