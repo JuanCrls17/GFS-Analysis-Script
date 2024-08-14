@@ -1,8 +1,6 @@
-![GFS Example](image/gfs_screenshot.png)
-
 
 # GFS Analysis Script
-
+![GFS Example](image/gfs_screenshot.png)
 ## Description
 This project automates the download and unpacking of GFS analysis data using a Bash script.
 
